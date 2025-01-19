@@ -1,1 +1,3 @@
 nginx_state: "present" 
+header_message: "This is solid stuff!"
+main_message: "My website caters for activities relating to DevOps, SRE and Platform Engineering"
